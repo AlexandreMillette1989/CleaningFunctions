@@ -16,7 +16,7 @@
 #'
 #' To_Lower();
 #'
-#'  To_Singular().
+#' To_Singular_String()
 #'
 #' @author Jean-François Savard \email{jean-françois.savard@enap.ca}
 #'
@@ -36,7 +36,7 @@
 #'
 #' ?To_Lower
 #'
-#' ?To_Singular
+#' ?To_Singular_String
 #'
 #' @docType package
 #'

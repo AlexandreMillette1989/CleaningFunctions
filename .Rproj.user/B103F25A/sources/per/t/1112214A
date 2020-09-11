@@ -1,25 +1,26 @@
 {
-    "id": "1112214A",
-    "path": "~/CleaningFunctions/R/CleaningFunctions_R.R",
-    "project_path": "R/CleaningFunctions_R.R",
-    "type": "r_source",
-    "hash": "3982209398",
-    "contents": "",
-    "dirty": false,
-    "created": 1599658119627.0,
-    "source_on_save": false,
-    "relative_order": 2,
-    "properties": {
-        "tempName": "Untitled1",
-        "cursorPosition": "125,0",
-        "scrollLine": "99"
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599658119627.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3078459011",
+    "id" : "1112214A",
+    "lastKnownWriteTime" : 1599856902,
+    "last_content_update" : 1599856902781,
+    "path" : "~/CleaningFunctions/R/CleaningFunctions_R.R",
+    "project_path" : "R/CleaningFunctions_R.R",
+    "properties" : {
+        "cursorPosition" : "120,20",
+        "scrollLine" : "104",
+        "tempName" : "Untitled1"
     },
-    "folds": "",
-    "lastKnownWriteTime": 1599659303,
-    "encoding": "UTF-8",
-    "collab_server": "",
-    "source_window": "",
-    "last_content_update": 1599659303817,
-    "read_only": false,
-    "read_only_alternatives": []
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
 }

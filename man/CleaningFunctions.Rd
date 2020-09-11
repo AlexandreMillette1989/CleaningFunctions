@@ -21,7 +21,7 @@ Rm_URLs();
 
 To_Lower();
 
- To_Singular().
+To_Singular_String()
 }
 \details{
 To get some help concerning the functions of this package, use the following:
@@ -40,7 +40,7 @@ To get some help concerning the functions of this package, use the following:
 
 ?To_Lower
 
-?To_Singular
+?To_Singular_String
 }
 \author{
 Jean-François Savard \email{jean-françois.savard@enap.ca}

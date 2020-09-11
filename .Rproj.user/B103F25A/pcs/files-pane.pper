@@ -1,9 +1,9 @@
 {
-    "sortOrder": [
+    "path" : "~/CleaningFunctions",
+    "sortOrder" : [
         {
-            "columnIndex": 2,
-            "ascending": true
+            "ascending" : true,
+            "columnIndex" : 2
         }
-    ],
-    "path": "~/CleaningFunctions"
+    ]
 }

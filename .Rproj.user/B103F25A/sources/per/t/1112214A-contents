@@ -110,17 +110,18 @@ To_Lower <- Vectorize(function(Sstring){
   return(Sstring)
 })
 
-#' @title To_Singular
+#' @title To_Singular_String
 #'
 #' @description This function changes all words to singular. Only applicable to a df or tibble of word tokens
 #'
-#' @usage To_Singular(Sstring)
+#' @usage To_Singular_String(Sstring)
 #'
 #' @param Sstring string value input
 #'
+#' @import pluralize
+#'
 #' @export
-To_Singular <- Vectorize(function(Sstring){
-  require(pluralize)
+To_Singular_String <- Vectorize(function(Sstring){
 
   Singularity <- singularize(Sstring)
 
